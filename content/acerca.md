@@ -23,6 +23,6 @@ Esos resúmenes pueden ayudarnos luego a recordar lo que estudiamos.
 O que alguien más pueda motivarse a estudiarlo también.
 
 ## Ideas
-- Cada artículo contiene mis frases sintetizando cierta parte de las lecciones que voy desarrollando. Puede ser la introducción, cierto capítulo, etc.
+- Cada artículo contiene mis frases sintetizando cierta parte de las lecciones que voy estudiando. Puede ser la introducción, cierto capítulo, o tema, etc.
 - Las categorías son usadas para agrupar los artículos que corresponden a un mismo curso.
 - Los tags son usados para agrupar los artículos en torno a tópicos comunes.
