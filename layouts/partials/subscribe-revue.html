@@ -1,0 +1,20 @@
+<!-- Revue Newsletter Signup -->
+<style type="text/css" media="screen">
+  {{ partial "css/newsletter.css" . | safeCSS }}
+</style>
+
+<div id="revue-embed" class="revue-embed">
+  <form action="https://www.getrevue.co/profile/antoniokc/add_subscriber" method="post" id="revue-form" class="revue-form" name="revue-form"  target="_blank">
+  <div class="revue-header">
+    Quiero recibir novedades
+  </div>
+  <div class="revue-description">
+    <p>Cada semana, te compartiré noticias acerca de libros, cursos y otros temas interesantes.</p>
+  </div>
+  <div class="revue-input">
+    <input type="email" class="button" name="member[email]" id="member_email" placeholder="Tu dirección email...">
+    <input type="submit" class="button" name="member[subscribe]" id="member_submit" value="Suscrirme">
+  </div>
+  <div class="revue-form-footer">Al suscribirme, acepto los <a target="_blank" href="https://www.getrevue.co/terms">Terminos de Servicio</a> de Revue y su <a target="_blank" href="https://www.getrevue.co/privacy">Política de Privacidad</a>.</div>
+  </form>
+</div>
