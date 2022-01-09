@@ -11,6 +11,7 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  images = ["logo.png"]
 
 [params.app]
   iconColor = "#5bbad5"
@@ -101,12 +102,37 @@ theme = "LoveIt"
   name = "Antonio Kobashikawa"
   email = "akobashikawa@gmail.com"
   link = "/akobashikawa"
+
+# Page config
+[params.page]
+  [params.page.toc]
+    # whether to enable the table of the contents
+    enable = true
+    # whether to keep the static table of the contents in front of the post
+    keepStatic = false
+    # whether to make the table of the contents in the sidebar automatically collapsed
+    auto = true
+  # Code config
+  [params.page.code]
+    # whether to show the copy button of the code block
+    copy = true
+    # the maximum number of lines of displayed code by default
+    maxShownLines = 10
   
-[params.page.comment]
-  enable = true
-  [params.page.comment.disqus]
-  enable = true
-  shortname = "akc-estudios"
+  [params.page.comment]
+    enable = true
+    [params.page.comment.disqus]
+    enable = true
+    shortname = "akc-estudios"
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = true
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
 
 [params.home.profile]
   enable = true
