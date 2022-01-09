@@ -13,6 +13,8 @@ draft: false
 
 ![Presentación](schurmann-reactjs-redux.png "Presentación del Curso")
 
+## Presentación
+
 - ["Nicolás Schürmann"](https://www.udemy.com/user/nicolas-schurmann/), ["ReactJS y redux: experto en frontend en español"](https://www.udemy.com/course/reactjs-experto-en-frontend-2018/)
 - React, redux, react-router y redux-form, el curso más completo sin grasa.
 

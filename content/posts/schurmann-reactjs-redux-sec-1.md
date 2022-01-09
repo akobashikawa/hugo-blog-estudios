@@ -13,7 +13,7 @@ draft: false
 
 <!--more-->
 
-# Sección 1: Introducción
+## Sección 1: Introducción
 - Nicolas Schürmann cuenta con amplia experiencia en desarrollo web
   - CTO y CEO de diversos emprendimientos
   - Premio a mejor aplicación en Latinoamérica
