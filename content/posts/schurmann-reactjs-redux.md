@@ -1,6 +1,7 @@
 ---
-title: ReactJS y redux - Presentación
-slug: schurmann-reactjs-redux
+title: "ReactJS y redux"
+subtitle: "Presentación"
+slug: "schurmann-reactjs-redux"
 featuredImage: "schurmann-reactjs-redux-featured.png"
 images: ["schurmann-reactjs-redux.png"]
 categories: ["Schurmann - ReactJS y redux"]

@@ -111,7 +111,9 @@ theme = "LoveIt"
 [params.home.profile]
   enable = true
   social = true
-  avatarURL = "contact-person.jpg"
+  avatarURL = "antoniokc.jpg"
+  title = "Antonio KC"
+  subtitle = "Notas sobre estudios que voy desarrollando"
 
 [params.social]
   GitHub = "akobashikawa"
