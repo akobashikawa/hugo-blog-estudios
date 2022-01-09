@@ -12,6 +12,11 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
 
+[params.app]
+  iconColor = "#5bbad5"
+  tileColor = "#da532c"
+  themeColor = "#ffffff"
+
 [menu]
   [[menu.main]]
     identifier = "posts"
