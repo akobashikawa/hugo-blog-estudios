@@ -137,7 +137,7 @@ theme = "LoveIt"
 [params.home.profile]
   enable = true
   social = true
-  avatarURL = "antoniokc.jpg"
+  avatarURL = "contact-person.jpg"
   subtitle = "Notas sobre lo que voy estudiando"
   typeit = true
 

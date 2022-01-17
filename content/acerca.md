@@ -1,22 +1,25 @@
 ---
 title: "Acerca de este blog"
-date: 2022-01-08T10:41:00-05:00
+date: 2022-01-16T23:57:00-05:00
 draft: false
 ---
 
-![Biblioteca](library-1800.jpg)
+{{<image src="acerca.png" width="100%">}}
 
-> _... involúcrame y lo comprenderé — Proverbio chino_
+> Cuéntame algo y lo olvidaré,\
+> muéstrámelo y podré recordarlo,\
+> pero involúcrame y lo comprenderé\
+> -- Proverbio chino
 
 Podemos mirar sin ver. Podemos leer sin recordar. Podemos recordar sin comprender.
 
-Involucrarse ayuda a comprender lo que leemos. Como cuando nos absorbe una novela.
+Pero **involucrarse** ayuda a comprender lo que vemos. Como cuando nos absorbe una novela, una película, o un juego.
 
-Una forma de involucrarse con algo es tratar de expresarlo con tus propias palabras.
+Una forma de involucrarse con algo es tratar de **expresarlo con tus propias palabras**.
 
-El ejercicio de poner al pie de cada lección una frase que la sintetice ayuda a que al final tengamos un resúmen del curso.
+El ejercicio de poner **una frase que sintetice cada lección** ayuda a que al final tengamos un resúmen del curso.
 
-O también puede ser una frase por cada idea.
+O también puede ser **una frase por cada idea**.
 
 Esos resúmenes pueden ayudarnos luego a recordar lo que estudiamos.
 
