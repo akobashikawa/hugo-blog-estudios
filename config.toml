@@ -138,7 +138,6 @@ theme = "LoveIt"
   enable = true
   social = true
   avatarURL = "antoniokc.jpg"
-  title = "Antonio KC"
   subtitle = "Notas sobre lo que voy estudiando"
   typeit = true
 
