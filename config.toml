@@ -139,7 +139,8 @@ theme = "LoveIt"
   social = true
   avatarURL = "antoniokc.jpg"
   title = "Antonio KC"
-  subtitle = "Notas sobre estudios que voy desarrollando"
+  subtitle = "Notas sobre lo que voy estudiando"
+  typeit = true
 
 [params.social]
   GitHub = "akobashikawa"
@@ -147,3 +148,4 @@ theme = "LoveIt"
   Twitter = "rulokoba"
   Instagram = "rulokc"
   Facebook = "akobashikawa"
+  RSS = true
