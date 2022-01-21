@@ -4,7 +4,7 @@ date: 2022-01-16T23:57:00-05:00
 draft: false
 ---
 
-{{<image src="acerca.png" width="100%">}}
+{{<image src="blog-akc-estudios.png" width="100%">}}
 
 > Cuéntame algo y lo olvidaré,\
 > muéstrámelo y podré recordarlo,\
