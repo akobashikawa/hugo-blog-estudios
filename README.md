@@ -1,4 +1,4 @@
-# AKC Estudios
+# AKC Aprende
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8570ad2-b1a5-4f6b-9c91-d570a875de15/deploy-status)](https://app.netlify.com/sites/akc-estudios/deploys)
 
