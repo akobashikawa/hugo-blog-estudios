@@ -17,7 +17,7 @@ draft: false
 
 <!--more-->
 
-- Adquirí este curso de Udemy hace varios años (aprox 2016) y avancé los capítulos iniciales que me sirvieron mucho para ayudar a aprender React.
+- Adquirí este curso de Udemy hace varios años (aprox 2017) y avancé los capítulos iniciales que me sirvieron mucho para ayudar a aprender React.
   - De hecho, me inspiré en sus ejercicios para hacer algunas presentaciones en mi grupo de estudio.
 - Después de un tiempo con Vue casi en exclusiva, me parece buena idea volver a ver React.
 - React ha evolucionado estos años y qué bueno que el curso también se ha actualizado.
