@@ -2,17 +2,16 @@
 title: "ReactJS y redux - Sec 1"
 subtitle: "Introducción"
 slug: "schurmann-reactjs-redux-sec-1"
-featuredImage: "schurmann-reactjs-redux-featured.png"
-images: ["schurmann-reactjs-redux.png"]
+summary: "Acerca del autor y el curso"
+featuredImagePreview: "schurmann-reactjs-redux-featured.jpg"
+featuredImage: "schurmann-reactjs-redux.jpg"
+images: ["schurmann-reactjs-redux.jpg"]
 categories: ["Schurmann - ReactJS y redux"]
 tags: ["react", "javascript", "frontend"]
 author: Antonio Kobashikawa
 date: 2022-01-08T21:43:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ## Sección 1: Introducción
 - Nicolas Schürmann cuenta con amplia experiencia en desarrollo web
   - CTO y CEO de diversos emprendimientos
