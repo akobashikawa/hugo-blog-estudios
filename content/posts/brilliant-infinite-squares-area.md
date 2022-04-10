@@ -7,7 +7,7 @@ featuredImagePreview: "brilliant-infinite-squares-area.png"
 featuredImage: "brilliant-infinite-squares-area.png"
 images: ["brilliant-infinite-squares-area.png"]
 categories: ["Matematicas"]
-tags: ["matematicas"]
+tags: ["matematicas", "brilliant"]
 author: Antonio Kobashikawa
 date: 2022-04-09T15:38:00-05:00
 math:
