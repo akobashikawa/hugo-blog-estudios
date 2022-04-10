@@ -9,7 +9,7 @@ images: ["katz-reactjs-bootcamp.jpg"]
 categories: ["Katz - ReactJS Bootcamp"]
 tags: ["react", "javascript", "frontend"]
 author: Antonio Kobashikawa
-date: 2022-04-07T12:59:00-05:00
+date: 2022-04-10T12:09:00-05:00
 draft: false
 ---
 
@@ -72,3 +72,20 @@ draft: false
 - He leído que usar prototipos para herencia en lugar de clases puede facilitar algunas cosas y que **es importante no olvidar** que existe esa opción en javascript.
 {{< /admonition >}}
 
+### State
+- this.**state** = { stateName: value }
+- this.**setState**({ stateName: value })
+	- En react, **no es una buena práctica modificar directamente el estado** stateName, sino usando setState()
+	- La razón es que **una modificación directa tiene que esperar hasta que se ejecute render()** para que se vea reflejado el cambio.
+		- Mientras que **setState() se asegura de ejecutar render()** inmediatamente después de la modificación.
+- **onClick**={this.handlerMethodName}
+	- En javascript, **una función se puede pasar como argumento**, igual que como se hace con otras variables.
+		- No es como en otros lenguajes, donde se necesitaría usar una referencia a su posición en memoria.
+
+## Binding
+- Cuando se define un método, su variable **this** coge el **contexto** en curso.
+- Por default, los nuevos métodos no tienen el contexto del componente y hay que agregarlo explícitamente.
+- Una forma de que tuvieran el contexto del componente sería **definirlos dentro de su constructor**.
+	- Pero **no sería muy legible**.
+- Otra forma de que tengan el contexto del componente es **definirlos fuera del constructor**, por legibilidad, pero **actualizar sus contextos en el constructor**.
+	- this.myMehod = this.myMethod.**bind(this)**
