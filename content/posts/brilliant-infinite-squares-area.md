@@ -45,3 +45,5 @@ Hoy recibí por email este problema de Brilliant.
 ## Brilliant
 
 [Brilliant](https://brilliant.org/) es un portal que ayuda a aprender y comprender las matemáticas de manera visual.
+
+{{< youtube xdojCKmLtow >}}
