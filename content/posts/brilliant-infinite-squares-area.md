@@ -26,7 +26,7 @@ Hoy recibí por email este problema de Brilliant.
   - Si el área total es 1, el área en rojo es R:
     $$ R = \frac{1}{4} + \frac{1}{4}\Big(\frac{1}{4}\Bigr) + \frac{1}{4}\Big(\frac{1}{4}\Bigr)\Big(\frac{1}{4}\Bigr) + ... $$
     $$ \implies 4R = 1 + \frac{1}{4} + \frac{1}{4}\Big(\frac{1}{4}\Bigr) + ... $$
-    $$ \implies 4R = 1 + S $$
+    $$ \implies 4R = 1 + R $$
     $$ \implies R = \frac{1}{3} $$
 {{< /admonition >}}
 
