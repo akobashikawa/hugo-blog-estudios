@@ -52,10 +52,18 @@ draft: false
 - Hay programadores que señalan que el uso de transpiladores agrega una capa más de dificultad al momento de depurar código.
 {{< /admonition >}}
 
-### Classes
+### Class
 - Las clases permiten agrupar variables y métodos relativos a una entidad.
 - Con la **herencia** una clase puede tener ciertas variables y métodos de una clase base.
   - Se usa `extends`
+- **class** Animal
+	- **constructor()**
+		- **this**.x
+- new Animal()
+- class Lion **extends** Animal
+	- constructor()
+		- **super()**
+- new Lion()
 
 {{< admonition note "Sobre las clases en javascript" >}}
 - En javascript, propiamente, **no existen las clases sino sólamente objetos**.
@@ -63,3 +71,4 @@ draft: false
 - El uso de clases son un agregado (*sugar code*), realizado gracias a los **transpiladores**, para que los desarrolladores que vienen del mundo OOP se sientan más cómodos.
 - He leído que usar prototipos para herencia en lugar de clases puede facilitar algunas cosas y que **es importante no olvidar** que existe esa opción en javascript.
 {{< /admonition >}}
+

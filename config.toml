@@ -164,3 +164,6 @@ theme = "LoveIt"
   Instagram = "rulokc"
   Facebook = "akobashikawa"
   RSS = true
+
+[params.math]
+  enable = true
