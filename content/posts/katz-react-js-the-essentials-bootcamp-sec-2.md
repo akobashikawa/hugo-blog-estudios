@@ -82,10 +82,21 @@ draft: false
 	- En javascript, **una función se puede pasar como argumento**, igual que como se hace con otras variables.
 		- No es como en otros lenguajes, donde se necesitaría usar una referencia a su posición en memoria.
 
-## Binding
+### Binding
 - Cuando se define un método, su variable **this** coge el **contexto** en curso.
-- Por default, los nuevos métodos no tienen el contexto del componente y hay que agregarlo explícitamente.
+- Los métodos definidos de la manera tradicional no tienen el contexto del componente y hay que agregarlo explícitamente.
+	- this.myMethod() { console.log(this); // undefined }
 - Una forma de que tuvieran el contexto del componente sería **definirlos dentro de su constructor**.
 	- Pero **no sería muy legible**.
 - Otra forma de que tengan el contexto del componente es **definirlos fuera del constructor**, por legibilidad, pero **actualizar sus contextos en el constructor**.
-	- this.myMehod = this.myMethod.**bind(this)**
+	- this.myMethod = this.myMethod.**bind(this)**
+- Otra forma de que tengan el contexto del componente es **definirlos como una función arrow**, que sí toma el contexto del componente.
+	- this.myMethod = () **=>** { console.log(this); // ok }
+
+### Globals
+- Las **variables globales** se nombran en mayúsculas, siguiendo la convención **SCREAM_UPPERCASE**.
+
+### Props
+- Se pueden pasar propiedades a un componente a través de los atributos de su etiqueta.
+	- `<Project project={PROJECT} />`
+	- En el componente Project se ve a través de **this.props**.project 
