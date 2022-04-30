@@ -9,7 +9,7 @@ images: ["katz-reactjs-bootcamp.jpg"]
 categories: ["Katz - ReactJS Bootcamp"]
 tags: ["react", "javascript", "frontend"]
 author: Antonio Kobashikawa
-date: 2022-04-10T12:09:00-05:00
+date: 2022-04-30T01:05:00-05:00
 draft: false
 ---
 
@@ -98,5 +98,6 @@ draft: false
 
 ### Props
 - Se pueden pasar propiedades a un componente a través de los atributos de su etiqueta.
-	- `<Project project={PROJECT} />`
-	- En el componente Project se ve a través de **this.props**.project 
+	- Por ejemplo, `<Projects>` usa un componente hijo al que le pasa un item de data, a través del atributo `project`
+		- `<Project project={PROJECT} />`
+	- En el componente Project se ve a través de **this.props**.project  
