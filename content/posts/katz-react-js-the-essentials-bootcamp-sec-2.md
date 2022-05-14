@@ -7,7 +7,7 @@ featuredImagePreview: "katz-reactjs-bootcamp-featured.jpg"
 featuredImage: "katz-reactjs-bootcamp.jpg"
 images: ["katz-reactjs-bootcamp.jpg"]
 categories: ["Katz - ReactJS Bootcamp"]
-tags: ["react", "javascript", "frontend"]
+tags: ["react", "javascript", "frontend", "udemy"]
 author: Antonio Kobashikawa
 date: 2022-04-30T01:05:00-05:00
 draft: false

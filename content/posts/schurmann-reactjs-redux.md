@@ -6,7 +6,7 @@ featuredImagePreview: "schurmann-reactjs-redux-featured.jpg"
 featuredImage: "schurmann-reactjs-redux.jpg"
 images: ["schurmann-reactjs-redux.png"]
 categories: ["Schurmann - ReactJS y redux"]
-tags: ["react", "javascript", "frontend"]
+tags: ["react", "javascript", "frontend", "udemy"]
 author: Antonio Kobashikawa
 date: 2022-01-08T18:26:00-05:00
 draft: false
