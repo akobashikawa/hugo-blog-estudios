@@ -26,6 +26,13 @@ draft: false
 	- Es una biblioteca para generar contenido falso
 	- Útil para mockups
 
+```javascript
+// $ npm install @faker-js/faker --save-dev
+// React
+import { faker } from '@faker-js/faker';
+<img alt="avatar" src={faker.image.avatar()} />
+```
+
 ## Popular Tech Stacks
 - [Popular Tech Stacks](https://stackshare.io/stacks)
 	- Stacks usados en empresas conocidas
