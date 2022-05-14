@@ -22,3 +22,7 @@ draft: false
 - [Faker](https://github.com/faker-js/faker)
 	- Es una biblioteca para generar contenido falso
 	- Útil para mockups
+
+## Popular Tech Stacks
+- [Popular Tech Stacks](https://stackshare.io/stacks)
+	- Stacks usados en empresas conocidas
