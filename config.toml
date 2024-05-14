@@ -1,4 +1,4 @@
-baseURL = "https://aprende.akcademia.xyz/"
+baseURL = "https://aprende.akcstudio.com/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
@@ -55,11 +55,11 @@ theme = "LoveIt"
     title = ""
     weight = 4
   [[menu.main]]
-    identifier = "antoniokc"
+    identifier = "akcstudio"
     pre = ""
     post = ""
-    name = "AntonioKC"
-    url = "https://antoniokc.akcademia.xyz"
+    name = "AKCStudio"
+    url = "https://akcstudio.com"
     title = ""
     weight = 5
 
